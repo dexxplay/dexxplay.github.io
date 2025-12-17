@@ -1,2 +1,2 @@
-![Alt text for the image](dexxplay-engine-icon)
+![Alt text for the image](dexxplay-engine-icon.gif)
 
